@@ -5,10 +5,10 @@ This project is under progress.. but you can use it.Planning on adding extra fun
 
 any ideas are welcomed.
 
-### requirements :-
+## requirements :-
    Python3 on both client and server PCs.
-### steps 
-   (Linux):-
+## steps:-
+  (Linux)
 1. download the project.
 2. Navigate to the project directory.
 3. run the  server.py file in terminal
@@ -22,13 +22,19 @@ any ideas are welcomed.
  4. on the clients Pc run the client.py file in  terminal
  
            sudo python3 client.py <server_ip_addr> <port_no_to_use> 
-           
-           
+            
       the same port used at server side
-    (WINDOWS)
- 1.open cmd as Administrator, then simply navigate to the project file and run the scipts as mentioned above just omit the sudo
-   part and continue (python3 server.py <port...).
-  and we are done !
+      
+     
+  (WINDOWS)
+    
+ 1. open cmd as Administrator, then simply navigate to the project file and run the scipts as mentioned above just omit the sudo
+    part and continue (python3 server.py <port...).
   
-  NOTE:- before running client file make sure server is running and ready to listen to any incoming connections (just make sure 
-     it executes perfectly without any errors :-) )
+  
+
+  
+  
+  ## NOTE:- 
+   before running client file make sure server is running and ready to listen to any incoming connections (just make sure 
+   it executes perfectly without any errors :-) )
