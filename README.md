@@ -13,16 +13,16 @@ any ideas are welcomed.
 2. Navigate to the project directory.
 3. run the  server.py file in terminal
 
-        ```sudo python3 server.py <port_no_to_use>
-        ```
+        sudo python3 server.py <port_no_to_use>
         
+   
      sudo beacause we need root privileges to create a sockets
      give a port no that is not commonly used by other services. that is to avoid conflicts.
          
  4. on the clients Pc run the client.py file in  terminal
  
-          ``` sudo python3 client.py <server_ip_addr> <port_no_to_use> 
-          ```
+           sudo python3 client.py <server_ip_addr> <port_no_to_use> 
+           
            
       the same port used at server side
     (WINDOWS)
