@@ -24,6 +24,7 @@ any ideas are welcomed.
            sudo python3 client.py <server_ip_addr> <port_no_to_use> 
             
       the same port used at server side
+      
  NOTE:- if you are testing on same machine or host.. then can use 127.0.0.1 (the loopback address) as the IP addr for both 
  server and client .
       
