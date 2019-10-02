@@ -25,7 +25,7 @@ any ideas are welcomed.
             
       the same port used at server side
       
- NOTE:- if you are testing on same machine or host.. then can use 127.0.0.1 (the loopback address) as the IP addr for both 
+ NOTE:- if you are testing on same machine or host.. then you can use 127.0.0.1 (the loopback address) as the IP addr for both 
  server and client .
       
      
