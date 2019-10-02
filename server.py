@@ -8,12 +8,12 @@
 import socket
 import sys
 
-if(len(sys.argv[1:])!=1):
+if(len(sys.argv[1:])!=2):
     print("[!] invalid input. Try again.")
-    print("Usage:- python3 server.py <port_no>")
+    print("Usage:- python3 server.py <your_ip_addr> <port_no>")
     sys.exit()
 
-host,port = '127.0.0.1',int(sys.argv[1])
+host,port = str(sys.argv[1]),int(sys.argv[2])
 try:
     global s
     print('[*] Socket Initializing..... ',end='')
