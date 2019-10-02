@@ -1,3 +1,8 @@
+'''
+  reverse shell
+  author @ Himanshu Bag :-)
+'''
+
 import socket
 import sys, subprocess,os
 
