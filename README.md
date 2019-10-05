@@ -27,6 +27,8 @@ any ideas are welcomed.
       
  NOTE:- if you are testing on same machine or host.. then you can use 127.0.0.1 (the loopback address) as the IP addr for both 
  server and client .
+ 
+ NOTE:- if you are testing on same network you can use your private IP, else you must use your public IP.
       
      
   (WINDOWS)
