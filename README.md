@@ -1,11 +1,12 @@
 # Reverse-Shell
 A simple reverse shell written in Python.
 
-This project is under progress.. but you can use it.Planning on adding extra functions.
+ This project is under progress.. but you can use it.
+ Planning on adding extra functions.
 
 any ideas are welcomed.
 
-## requirements :-
+## Requirements :-
    Python3 on both client and server PCs.
 ## steps:-
   (Linux)
@@ -16,7 +17,7 @@ any ideas are welcomed.
         sudo python3 server.py <your_ip_addr> <port_no_to_use>
         
    
-     sudo beacause we need root privileges to create a sockets
+     sudo beacause we need root privileges to create a sockets. 
      give a port no that is not commonly used by other services. that is to avoid conflicts.
          
  4. on the clients Pc run the client.py file in  terminal
