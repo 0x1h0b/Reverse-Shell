@@ -1,6 +1,5 @@
 # Reverse-Shell
 
-A packet analyzer or packet sniffer is a computer program, or computer hardware such as a packet capture appliance, that can intercept and log traffic that passes over a computer network or part of a network.
 A simple reverse shell written in Python.
 
  This project is under progress.. but you can use it.
