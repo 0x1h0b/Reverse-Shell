@@ -5,7 +5,7 @@
 '''
 
 
-import socket
+import socket #import libraries 
 import sys
 
 if(len(sys.argv[1:])!=2):
