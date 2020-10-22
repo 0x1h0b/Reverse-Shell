@@ -56,7 +56,9 @@ def bind_socket(host,port):
         if(x=='Y' or x=='y'):
             bind_socket(host,port)
 
-
+def archit(h):
+    return 2*h
+    
 
 print('\n')
 bind_socket(host,port)
